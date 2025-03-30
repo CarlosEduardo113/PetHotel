@@ -1,0 +1,14 @@
+C:\Users\ce219\OneDrive\Documentos\PetHotel\bin\Debug\net8.0\PetHotel.exe
+C:\Users\ce219\OneDrive\Documentos\PetHotel\bin\Debug\net8.0\PetHotel.deps.json
+C:\Users\ce219\OneDrive\Documentos\PetHotel\bin\Debug\net8.0\PetHotel.runtimeconfig.json
+C:\Users\ce219\OneDrive\Documentos\PetHotel\bin\Debug\net8.0\PetHotel.dll
+C:\Users\ce219\OneDrive\Documentos\PetHotel\bin\Debug\net8.0\PetHotel.pdb
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.AssemblyInfoInputs.cache
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.AssemblyInfo.cs
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.csproj.CoreCompileInputs.cache
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.dll
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\refint\PetHotel.dll
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.pdb
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\PetHotel.genruntimeconfig.cache
+C:\Users\ce219\OneDrive\Documentos\PetHotel\obj\Debug\net8.0\ref\PetHotel.dll
